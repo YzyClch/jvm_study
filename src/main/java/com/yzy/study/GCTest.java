@@ -31,7 +31,7 @@ public class GCTest {
         byte[] allocation1, allocation2, allocation3, allocation4, allocation5, allocation6, allocation7;
         allocation1 = new byte[2 * _1MB];
         allocation2 = new byte[2 * _1MB];
-        allocation3 = new byte[2 * _1MB];
+//        allocation3 = new byte[2 * _1MB];
 //        allocation1 = null;
 //        allocation4 = new byte[2 * _1MB];
 //        allocation5 = new byte[2 * _1MB];
