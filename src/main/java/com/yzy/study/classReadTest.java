@@ -1,12 +1,12 @@
 package com.yzy.study;
 
-import java.io.FileInputStream;
-import java.io.IOException;
+
 import javax.lang.model.SourceVersion;
 public class classReadTest
 {
 
     public static void main(String[] args) {
+
         ClassLoader systemClassLoader = ClassLoader.getSystemClassLoader();
         System.out.println(systemClassLoader);//sun.misc.Launcher$AppClassLoader@18b4aac2
 
