@@ -1,6 +1,7 @@
 package com.yzy.study.data.test;
 
-import com.yzy.study.data.HashMap;
+
+import java.util.HashMap;
 
 public class HashDebug {
 
