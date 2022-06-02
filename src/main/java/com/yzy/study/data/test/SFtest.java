@@ -27,7 +27,7 @@ public class SFtest {
 
         int x =30;
         Son(){
-//            print();
+            print();
             x=40;
         }
 
